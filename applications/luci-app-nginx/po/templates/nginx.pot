@@ -143,8 +143,7 @@ msgstr ""
 
 #: applications/luci-app-nginx/htdocs/luci-static/resources/view/nginx/locations.js:44
 msgid ""
-"We found those <code>.locations</code> files under <code>/etc/nginx/conf.d</"
-"code>"
+"We found those <code>.locations</code> files under <code>/etc/nginx/conf.d</code>"
 msgstr ""
 
 #: applications/luci-app-nginx/htdocs/luci-static/resources/view/nginx/status.js:147
