@@ -40,6 +40,10 @@ return view.extend({
             _("Server Name:")
         );
         serverNameOption.optional = true;
+        var includeOption = configSection.option(
+            form.DynamicList, "include",
+            _("Include:")
+        );
 
         var uciManageSSLOption = configSection.option(
             form.Value, "uci_manage_ssl",
